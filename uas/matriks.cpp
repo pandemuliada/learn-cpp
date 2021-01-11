@@ -35,7 +35,6 @@ int main()
 		cout << endl;
 	}
 
-	cout << "##############################\n";
 	cout << "Matriks : " << endl;
 	{
 		for (i = 0; i < 3; i++)
@@ -48,6 +47,5 @@ int main()
 		}
 	}
 
-	cout << "##############################\n";
 	cout << "Total penjumlahan elemen pada baris pertama dan ketiga adalah " << total;
 }
